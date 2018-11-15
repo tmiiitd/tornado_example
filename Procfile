@@ -1,1 +1,1 @@
-web: python api.py runserver 0.0.0.0:25566
+web: python api.py runserver 0.0.0.0:0
